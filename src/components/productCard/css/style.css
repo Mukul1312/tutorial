@@ -1,0 +1,73 @@
+.wrapper-div-11092840 {
+  --image-0: url(../graphics/graphics0.png);
+  --image-1: url(../graphics/graphics1.png);
+  --image-2: url(../graphics/graphics2.png);
+  --image-3: url(../graphics/graphics3.png);
+  --custom-width: 300px;
+  --design-width: 300;
+  --ratio: calc(var(--custom-width) / var(--design-width));
+  position: relative;
+  width: var(--custom-width);
+  height: calc(324.62 * var(--ratio));
+  overflow: hidden;
+  margin: auto;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.nodeBg-11092840 {
+  opacity: 1;
+}
+.nodeBg-11092903 {
+  opacity: 1;
+  background-image: var(--image-0);
+}
+.nodeBg-11092904 {
+  opacity: 1;
+  background-image: var(--image-1);
+}
+.nodeBg-11092906 {
+  opacity: 1;
+  background-image: var(--image-2);
+}
+.nodeBg-11092908 {
+  opacity: 1;
+  background-image: var(--image-3);
+}
+.nike-shoes-11092843-0 {
+  font-size: calc(22.333332061767578 * var(--ratio));
+  font-family: Roboto;
+  font-weight: 900;
+
+  text-decoration: none;
+  text-transform: none;
+  white-space: pre-wrap;
+
+  line-height: calc(23.333332061767578 * var(--ratio));
+  color: #ffffffff;
+}
+
+.c-9770-11092844-0 {
+  font-size: calc(22.333332061767578 * var(--ratio));
+  font-family: Roboto;
+  font-weight: 900;
+
+  text-decoration: none;
+  text-transform: none;
+  white-space: pre-wrap;
+
+  line-height: calc(23.333332061767578 * var(--ratio));
+  color: #ffffffff;
+}
+
+.add-to-cart-11092917-0 {
+  font-size: calc(9.833333015441895 * var(--ratio));
+  font-family: Roboto;
+  font-weight: 700;
+
+  text-decoration: none;
+  text-transform: uppercase;
+  white-space: pre-wrap;
+  letter-spacing: calc(0.9000000357627869 * var(--ratio));
+  line-height: calc(10.833333015441895 * var(--ratio));
+  color: #ffffffff;
+}
